@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/weeb_whyred.mk
+    $(LOCAL_DIR)/stellar_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    weeb_whyred-user \
-    weeb_whyred-userdebug \
-    weeb_whyred-eng
+    stellar_whyred-user \
+    stellar_whyred-userdebug \
+    stellar_whyred-eng
